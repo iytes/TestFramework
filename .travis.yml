@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: TestFramework.xcodeproj
+xcode_scheme: TestFramework
+xcode_sdk: iphonesimulator
